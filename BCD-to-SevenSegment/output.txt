@@ -1,0 +1,10 @@
+BCD = 0000 Seven Segment = 0000001
+BCD = 0001 Seven Segment = 1001111
+BCD = 0010 Seven Segment = 0010010
+BCD = 0011 Seven Segment = 0000110
+BCD = 0100 Seven Segment = 1001100
+BCD = 0101 Seven Segment = 0100100
+BCD = 0110 Seven Segment = 0100000
+BCD = 0111 Seven Segment = 0001111
+BCD = 1000 Seven Segment = 0000000
+BCD = 1001 Seven Segment = 0000100
